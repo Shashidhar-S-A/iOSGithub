@@ -7,7 +7,7 @@
 //
 
 #import "AppDelegate.h"
-
+//heloo world example
 @implementation AppDelegate
 
 @synthesize managedObjectContext = _managedObjectContext;
